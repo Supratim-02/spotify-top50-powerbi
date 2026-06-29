@@ -190,7 +190,7 @@ spotify-top-50-powerbi/
 
 1. **Clone this repository**
 ```bash
-   git clone https://github.com/your-username/spotify-top-50-powerbi.git
+   git clone https://github.com/Supratim-02/spotify-top-50-powerbi.git
 ```
 
 2. **Open the dashboard**
