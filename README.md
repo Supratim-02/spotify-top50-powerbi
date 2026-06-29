@@ -213,8 +213,8 @@ spotify-top-50-powerbi/
 B.Sc. (Hons) Statistics — University of Calcutta (Asutosh College)
 Entry-Level Data Analyst · SQL · Python · Power BI · Tableau · Excel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
+[![LinkedIn](www.linkedin.com/in/supratim-maity-8a5458361)
+[![GitHub]([https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username](https://github.com/Supratim-02?tab=repositories))
 
 ---
 
