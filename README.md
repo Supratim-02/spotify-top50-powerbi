@@ -1,9 +1,5 @@
 # 🎵 Spotify Top 50 World — Power BI Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![CSV](https://img.shields.io/badge/Dataset-CSV-1DB954?style=for-the-badge&logo=files&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Measures-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-1DB954?style=for-the-badge)
 
 > An interactive Power BI dashboard analyzing Spotify's global Top 50 World chart data across **May 2023 – November 2024**, covering song popularity, artist dominance, release trends, and chart behavior through dynamic visualizations and KPIs.
 
